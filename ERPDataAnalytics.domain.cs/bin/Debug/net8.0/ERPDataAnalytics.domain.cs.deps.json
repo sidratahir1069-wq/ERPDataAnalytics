@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ERPDataAnalytics.domain.cs/1.0.0": {
+        "runtime": {
+          "ERPDataAnalytics.domain.cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ERPDataAnalytics.domain.cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

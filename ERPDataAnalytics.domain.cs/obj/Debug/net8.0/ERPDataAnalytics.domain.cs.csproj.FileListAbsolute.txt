@@ -1,0 +1,12 @@
+C:\Users\Sidra\source\repos\DataAnalytics\ERPDataAnalytics\ERPDataAnalytics.domain.cs\bin\Debug\net8.0\ERPDataAnalytics.domain.cs.deps.json
+C:\Users\Sidra\source\repos\DataAnalytics\ERPDataAnalytics\ERPDataAnalytics.domain.cs\bin\Debug\net8.0\ERPDataAnalytics.domain.cs.dll
+C:\Users\Sidra\source\repos\DataAnalytics\ERPDataAnalytics\ERPDataAnalytics.domain.cs\bin\Debug\net8.0\ERPDataAnalytics.domain.cs.pdb
+C:\Users\Sidra\source\repos\DataAnalytics\ERPDataAnalytics\ERPDataAnalytics.domain.cs\obj\Debug\net8.0\ERPDataAnalytics.domain.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sidra\source\repos\DataAnalytics\ERPDataAnalytics\ERPDataAnalytics.domain.cs\obj\Debug\net8.0\ERPDataAnalytics.domain.cs.AssemblyInfoInputs.cache
+C:\Users\Sidra\source\repos\DataAnalytics\ERPDataAnalytics\ERPDataAnalytics.domain.cs\obj\Debug\net8.0\ERPDataAnalytics.domain.cs.AssemblyInfo.cs
+C:\Users\Sidra\source\repos\DataAnalytics\ERPDataAnalytics\ERPDataAnalytics.domain.cs\obj\Debug\net8.0\ERPDataAnalytics.domain.cs.csproj.CoreCompileInputs.cache
+C:\Users\Sidra\source\repos\DataAnalytics\ERPDataAnalytics\ERPDataAnalytics.domain.cs\obj\Debug\net8.0\ERPDataAnalytics.domain.cs.sourcelink.json
+C:\Users\Sidra\source\repos\DataAnalytics\ERPDataAnalytics\ERPDataAnalytics.domain.cs\obj\Debug\net8.0\ERPDataAnalytics.domain.cs.dll
+C:\Users\Sidra\source\repos\DataAnalytics\ERPDataAnalytics\ERPDataAnalytics.domain.cs\obj\Debug\net8.0\refint\ERPDataAnalytics.domain.cs.dll
+C:\Users\Sidra\source\repos\DataAnalytics\ERPDataAnalytics\ERPDataAnalytics.domain.cs\obj\Debug\net8.0\ERPDataAnalytics.domain.cs.pdb
+C:\Users\Sidra\source\repos\DataAnalytics\ERPDataAnalytics\ERPDataAnalytics.domain.cs\obj\Debug\net8.0\ref\ERPDataAnalytics.domain.cs.dll
