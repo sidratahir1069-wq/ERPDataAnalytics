@@ -1,4 +1,5 @@
-﻿using ERPDataAnalytics.Application.cs.Interface;
+﻿using ERPDataAnalytics.Application.cs.DTO.Sale;
+using ERPDataAnalytics.Application.cs.Interface;
 using ERPDataAnalytics.domain.cs.Entities;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -9,70 +10,39 @@ namespace ERPDataAnalytics.Controllers
     [ApiController]
     public class SaleController : ControllerBase
     {
-        private readonly ISaleService _Saleservice;
+        private readonly ISaleService _service;
 
-        public SaleController(ISaleService SaleService)
+        public SaleController(ISaleService service)
         {
-
-            _Saleservice = SaleService;
-
+            _service = service;
         }
-
-
-        [HttpGet("getall")]
-        public async Task<IActionResult> GetAll()
-        {
-            var result = await _Saleservice.GetAllSale();
-            return Ok(result);
-        }
-
-
-
-
-        [HttpGet("{id:int}")]
-        public async Task<IActionResult> GetById(int id)
-        {
-            var result = await _Saleservice.GetById(id);
-            if (result == null)
-                return NotFound(new { Message = $"SaleID {id} not found" });
-
-            return Ok(result);
-        }
-
 
         [HttpPost("create")]
-        public async Task<IActionResult> Create([FromBody] Sale dto) //ab create kro
+        public async Task<IActionResult> Create(SaleDTO dto)
         {
-            var result = await _Saleservice.AddSale(dto);
+            var result = await _service.CreateSaleAsync(dto);
             return Ok(result);
         }
 
-
-        [HttpPut("{id:int}")]
-        public async Task<IActionResult> Update(int id, [FromBody] Sale dto)
+        [HttpGet("all")]
+        public async Task<IActionResult> GetAll()
         {
-            if (!ModelState.IsValid)
-                return BadRequest(ModelState);
-
-            var result = await _Saleservice.UpdateSale(id, dto);
-
-            if (result == null || !result.Success)
-                return NotFound(new { Message = $"Sale with ID {id} not found" });
-
+            var result = await _service.GetAllAsync();
             return Ok(result);
         }
 
-
-        [HttpDelete("{id:int}")]
-        public async Task<IActionResult> Delete(int id, CancellationToken cancellationToken)
+        [HttpGet("{id}")]
+        public async Task<IActionResult> GetById(int id)
         {
-            var result = await _Saleservice.DeleteSale(id);
+            var result = await _service.GetByIdAsync(id);
+            return Ok(result);
+        }
 
-            if (result == null || !result.Data)
-                return NotFound(new { Message = $"Sale with ID {id} not found" });
-
-
-            return NoContent();
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var result = await _service.DeleteAsync(id);
+            return Ok(result);
         }
     }
-}
+    }
