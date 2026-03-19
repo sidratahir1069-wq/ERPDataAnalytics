@@ -1,4 +1,5 @@
-﻿using ERPDataAnalytics.Application.cs.Model;
+﻿using ERPDataAnalytics.Application.cs.DTO.Sale;
+using ERPDataAnalytics.Application.cs.Model;
 using ERPDataAnalytics.domain.cs.Entities;
 using System;
 using System.Collections.Generic;
@@ -10,16 +11,14 @@ namespace ERPDataAnalytics.Application.cs.Interface
 {
     public interface ISaleService
     {
-        Task<ResponseDataModel<List<Sale>>> GetAllSale();
-
-        Task<ResponseDataModel<Sale>> GetById(int id);
-
-        Task<ResponseDataModel<bool>> DeleteSale(int id);
+        Task<ResponseDataModel<Sale>> CreateSaleAsync(SaleDTO dto);
+        Task<ResponseDataModel<List<Sale>>> GetAllAsync();
+        Task<ResponseDataModel<Sale>> GetByIdAsync(int id);
+        Task<ResponseDataModel<bool>> DeleteAsync(int id);
 
         Task<ResponseDataModel<Sale>> UpdateSale(int id, Sale model);
 
 
-        Task<ResponseDataModel<Sale>> AddSale(Sale model);
     }
 
 }

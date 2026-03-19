@@ -1,7 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sidra\\source\\repos\\DataAnalytics\\ERPDataAnalytics\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\ERPDataAnalytics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82EF1911-919A-686D-6309-C26EB74F19D2}|ERPDataAnalytics.Application.cs\\ERPDataAnalytics.Application.cs.csproj|c:\\erpdataanalytics\\erpdataanalytics.application.cs\\services\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82EF1911-919A-686D-6309-C26EB74F19D2}|ERPDataAnalytics.Application.cs\\ERPDataAnalytics.Application.cs.csproj|solutionrelative:erpdataanalytics.application.cs\\services\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A7014F2-422E-2BD4-14D3-9E77755EC24B}|ERPDataAnalytics\\ERPDataAnalytics.csproj|c:\\erpdataanalytics\\erpdataanalytics\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A7014F2-422E-2BD4-14D3-9E77755EC24B}|ERPDataAnalytics\\ERPDataAnalytics.csproj|solutionrelative:erpdataanalytics\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82EF1911-919A-686D-6309-C26EB74F19D2}|ERPDataAnalytics.Application.cs\\ERPDataAnalytics.Application.cs.csproj|c:\\erpdataanalytics\\erpdataanalytics.application.cs\\interface\\isaleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82EF1911-919A-686D-6309-C26EB74F19D2}|ERPDataAnalytics.Application.cs\\ERPDataAnalytics.Application.cs.csproj|solutionrelative:erpdataanalytics.application.cs\\interface\\isaleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SaleService.cs",
+              "DocumentMoniker": "C:\\ERPDataAnalytics\\ERPDataAnalytics.Application.cs\\Services\\SaleService.cs",
+              "RelativeDocumentMoniker": "ERPDataAnalytics.Application.cs\\Services\\SaleService.cs",
+              "ToolTip": "C:\\ERPDataAnalytics\\ERPDataAnalytics.Application.cs\\Services\\SaleService.cs",
+              "RelativeToolTip": "ERPDataAnalytics.Application.cs\\Services\\SaleService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:30:14.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SaleController.cs",
+              "DocumentMoniker": "C:\\ERPDataAnalytics\\ERPDataAnalytics\\Controllers\\SaleController.cs",
+              "RelativeDocumentMoniker": "ERPDataAnalytics\\Controllers\\SaleController.cs",
+              "ToolTip": "C:\\ERPDataAnalytics\\ERPDataAnalytics\\Controllers\\SaleController.cs",
+              "RelativeToolTip": "ERPDataAnalytics\\Controllers\\SaleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:30:03.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISaleService.cs",
+              "DocumentMoniker": "C:\\ERPDataAnalytics\\ERPDataAnalytics.Application.cs\\Interface\\ISaleService.cs",
+              "RelativeDocumentMoniker": "ERPDataAnalytics.Application.cs\\Interface\\ISaleService.cs",
+              "ToolTip": "C:\\ERPDataAnalytics\\ERPDataAnalytics.Application.cs\\Interface\\ISaleService.cs",
+              "RelativeToolTip": "ERPDataAnalytics.Application.cs\\Interface\\ISaleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:29:11.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
