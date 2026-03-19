@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ERPDataAnalytics\\ERPDataAnalytics\\ERPDataAnalytics.csproj": {}
+    "C:\\Users\\Sidra\\source\\repos\\DataAnalytics\\ERPDataAnalytics\\ERPDataAnalytics\\ERPDataAnalytics.csproj": {}
   },
   "projects": {
-    "C:\\ERPDataAnalytics\\ERPDataAnalytics.Application.cs\\ERPDataAnalytics.Application.cs.csproj": {
+    "C:\\Users\\Sidra\\source\\repos\\DataAnalytics\\ERPDataAnalytics\\ERPDataAnalytics.Application.cs\\ERPDataAnalytics.Application.cs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ERPDataAnalytics\\ERPDataAnalytics.Application.cs\\ERPDataAnalytics.Application.cs.csproj",
+        "projectUniqueName": "C:\\Users\\Sidra\\source\\repos\\DataAnalytics\\ERPDataAnalytics\\ERPDataAnalytics.Application.cs\\ERPDataAnalytics.Application.cs.csproj",
         "projectName": "ERPDataAnalytics.Application.cs",
-        "projectPath": "C:\\ERPDataAnalytics\\ERPDataAnalytics.Application.cs\\ERPDataAnalytics.Application.cs.csproj",
-        "packagesPath": "C:\\Users\\Tanveer\\.nuget\\packages\\",
-        "outputPath": "C:\\ERPDataAnalytics\\ERPDataAnalytics.Application.cs\\obj\\",
+        "projectPath": "C:\\Users\\Sidra\\source\\repos\\DataAnalytics\\ERPDataAnalytics\\ERPDataAnalytics.Application.cs\\ERPDataAnalytics.Application.cs.csproj",
+        "packagesPath": "C:\\Users\\Sidra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sidra\\source\\repos\\DataAnalytics\\ERPDataAnalytics\\ERPDataAnalytics.Application.cs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tanveer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sidra\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\ERPDataAnalytics\\ERPDataAnalytics.domain.cs\\ERPDataAnalytics.domain.cs.csproj": {
-                "projectPath": "C:\\ERPDataAnalytics\\ERPDataAnalytics.domain.cs\\ERPDataAnalytics.domain.cs.csproj"
+              "C:\\Users\\Sidra\\source\\repos\\DataAnalytics\\ERPDataAnalytics\\ERPDataAnalytics.domain.cs\\ERPDataAnalytics.domain.cs.csproj": {
+                "projectPath": "C:\\Users\\Sidra\\source\\repos\\DataAnalytics\\ERPDataAnalytics\\ERPDataAnalytics.domain.cs\\ERPDataAnalytics.domain.cs.csproj"
               }
             }
           }
@@ -94,24 +94,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\ERPDataAnalytics\\ERPDataAnalytics.domain.cs\\ERPDataAnalytics.domain.cs.csproj": {
+    "C:\\Users\\Sidra\\source\\repos\\DataAnalytics\\ERPDataAnalytics\\ERPDataAnalytics.domain.cs\\ERPDataAnalytics.domain.cs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ERPDataAnalytics\\ERPDataAnalytics.domain.cs\\ERPDataAnalytics.domain.cs.csproj",
+        "projectUniqueName": "C:\\Users\\Sidra\\source\\repos\\DataAnalytics\\ERPDataAnalytics\\ERPDataAnalytics.domain.cs\\ERPDataAnalytics.domain.cs.csproj",
         "projectName": "ERPDataAnalytics.domain.cs",
-        "projectPath": "C:\\ERPDataAnalytics\\ERPDataAnalytics.domain.cs\\ERPDataAnalytics.domain.cs.csproj",
-        "packagesPath": "C:\\Users\\Tanveer\\.nuget\\packages\\",
-        "outputPath": "C:\\ERPDataAnalytics\\ERPDataAnalytics.domain.cs\\obj\\",
+        "projectPath": "C:\\Users\\Sidra\\source\\repos\\DataAnalytics\\ERPDataAnalytics\\ERPDataAnalytics.domain.cs\\ERPDataAnalytics.domain.cs.csproj",
+        "packagesPath": "C:\\Users\\Sidra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sidra\\source\\repos\\DataAnalytics\\ERPDataAnalytics\\ERPDataAnalytics.domain.cs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tanveer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sidra\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -160,24 +160,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\ERPDataAnalytics\\ERPDataAnalytics.Infrastructure.cs\\ERPDataAnalytics.Infrastructure.cs.csproj": {
+    "C:\\Users\\Sidra\\source\\repos\\DataAnalytics\\ERPDataAnalytics\\ERPDataAnalytics.Infrastructure.cs\\ERPDataAnalytics.Infrastructure.cs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ERPDataAnalytics\\ERPDataAnalytics.Infrastructure.cs\\ERPDataAnalytics.Infrastructure.cs.csproj",
+        "projectUniqueName": "C:\\Users\\Sidra\\source\\repos\\DataAnalytics\\ERPDataAnalytics\\ERPDataAnalytics.Infrastructure.cs\\ERPDataAnalytics.Infrastructure.cs.csproj",
         "projectName": "ERPDataAnalytics.Infrastructure.cs",
-        "projectPath": "C:\\ERPDataAnalytics\\ERPDataAnalytics.Infrastructure.cs\\ERPDataAnalytics.Infrastructure.cs.csproj",
-        "packagesPath": "C:\\Users\\Tanveer\\.nuget\\packages\\",
-        "outputPath": "C:\\ERPDataAnalytics\\ERPDataAnalytics.Infrastructure.cs\\obj\\",
+        "projectPath": "C:\\Users\\Sidra\\source\\repos\\DataAnalytics\\ERPDataAnalytics\\ERPDataAnalytics.Infrastructure.cs\\ERPDataAnalytics.Infrastructure.cs.csproj",
+        "packagesPath": "C:\\Users\\Sidra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sidra\\source\\repos\\DataAnalytics\\ERPDataAnalytics\\ERPDataAnalytics.Infrastructure.cs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tanveer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sidra\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -193,8 +193,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\ERPDataAnalytics\\ERPDataAnalytics.domain.cs\\ERPDataAnalytics.domain.cs.csproj": {
-                "projectPath": "C:\\ERPDataAnalytics\\ERPDataAnalytics.domain.cs\\ERPDataAnalytics.domain.cs.csproj"
+              "C:\\Users\\Sidra\\source\\repos\\DataAnalytics\\ERPDataAnalytics\\ERPDataAnalytics.domain.cs\\ERPDataAnalytics.domain.cs.csproj": {
+                "projectPath": "C:\\Users\\Sidra\\source\\repos\\DataAnalytics\\ERPDataAnalytics\\ERPDataAnalytics.domain.cs\\ERPDataAnalytics.domain.cs.csproj"
               }
             }
           }
@@ -248,24 +248,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\ERPDataAnalytics\\ERPDataAnalytics\\ERPDataAnalytics.csproj": {
+    "C:\\Users\\Sidra\\source\\repos\\DataAnalytics\\ERPDataAnalytics\\ERPDataAnalytics\\ERPDataAnalytics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ERPDataAnalytics\\ERPDataAnalytics\\ERPDataAnalytics.csproj",
+        "projectUniqueName": "C:\\Users\\Sidra\\source\\repos\\DataAnalytics\\ERPDataAnalytics\\ERPDataAnalytics\\ERPDataAnalytics.csproj",
         "projectName": "ERPDataAnalytics",
-        "projectPath": "C:\\ERPDataAnalytics\\ERPDataAnalytics\\ERPDataAnalytics.csproj",
-        "packagesPath": "C:\\Users\\Tanveer\\.nuget\\packages\\",
-        "outputPath": "C:\\ERPDataAnalytics\\ERPDataAnalytics\\obj\\",
+        "projectPath": "C:\\Users\\Sidra\\source\\repos\\DataAnalytics\\ERPDataAnalytics\\ERPDataAnalytics\\ERPDataAnalytics.csproj",
+        "packagesPath": "C:\\Users\\Sidra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sidra\\source\\repos\\DataAnalytics\\ERPDataAnalytics\\ERPDataAnalytics\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tanveer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sidra\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -281,11 +281,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\ERPDataAnalytics\\ERPDataAnalytics.Application.cs\\ERPDataAnalytics.Application.cs.csproj": {
-                "projectPath": "C:\\ERPDataAnalytics\\ERPDataAnalytics.Application.cs\\ERPDataAnalytics.Application.cs.csproj"
+              "C:\\Users\\Sidra\\source\\repos\\DataAnalytics\\ERPDataAnalytics\\ERPDataAnalytics.Application.cs\\ERPDataAnalytics.Application.cs.csproj": {
+                "projectPath": "C:\\Users\\Sidra\\source\\repos\\DataAnalytics\\ERPDataAnalytics\\ERPDataAnalytics.Application.cs\\ERPDataAnalytics.Application.cs.csproj"
               },
-              "C:\\ERPDataAnalytics\\ERPDataAnalytics.Infrastructure.cs\\ERPDataAnalytics.Infrastructure.cs.csproj": {
-                "projectPath": "C:\\ERPDataAnalytics\\ERPDataAnalytics.Infrastructure.cs\\ERPDataAnalytics.Infrastructure.cs.csproj"
+              "C:\\Users\\Sidra\\source\\repos\\DataAnalytics\\ERPDataAnalytics\\ERPDataAnalytics.Infrastructure.cs\\ERPDataAnalytics.Infrastructure.cs.csproj": {
+                "projectPath": "C:\\Users\\Sidra\\source\\repos\\DataAnalytics\\ERPDataAnalytics\\ERPDataAnalytics.Infrastructure.cs\\ERPDataAnalytics.Infrastructure.cs.csproj"
               }
             }
           }
@@ -340,7 +340,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
